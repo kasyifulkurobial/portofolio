@@ -1,0 +1,26 @@
+{
+  "name": "kasyiful-portfolio",
+  "version": "1.0.0",
+  "description": "Professional Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "install-deps": "npm install"
+  },
+  "keywords": [
+    "portfolio",
+    "animejs",
+    "vite",
+    "frontend"
+  ],
+  "author": "Kasyiful Kurobi Alqorrosyai'",
+  "license": "MIT",
+  "dependencies": {
+    "animejs": "^4.2.2"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}
