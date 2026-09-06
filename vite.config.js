@@ -11,7 +11,8 @@ export default defineConfig({
     rollupOptions: {
       output: {
         manualChunks: {
-          anime: ['animejs']
+          anime: ['animejs'],
+          three: ['three']
         }
       }
     }

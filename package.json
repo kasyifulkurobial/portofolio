@@ -18,7 +18,8 @@
   "author": "Kasyiful Kurobi Alqorrosyai'",
   "license": "MIT",
   "dependencies": {
-    "animejs": "^4.2.2"
+    "animejs": "^4.2.2",
+    "three": "^0.185.1"
   },
   "devDependencies": {
     "vite": "^6.0.0"
